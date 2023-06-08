@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats-feverking.vercel.app/api?username=FeverKing)](https://github.com/anuraghazra/github-readme-stats)
+🔭 Currently focusing on cyber security & software engineering
+💬 Ask me about pentesting and go / python / php / vue development
+🤔 I’m looking for help with wireless security auditing
+📫 How to reach me: feverking@feverking.cn
