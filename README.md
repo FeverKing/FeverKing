@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 Currently focusing on cyber security & software engineering
+
 💬 Ask me about pentesting and go / python / php / vue development
+
 🤔 I’m looking for help with wireless security auditing
+
 📫 How to reach me: feverking@feverking.cn
